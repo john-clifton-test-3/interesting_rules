@@ -20,7 +20,7 @@ update_and_show_counter(counter)
 def complicated_code(input):
     a=1
     b=2
-    c=3
+    c=3 # success!
     d=4
     counter = 1
 
